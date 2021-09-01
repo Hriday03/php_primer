@@ -16,7 +16,9 @@ $age = 17;
 echo $name;
 echo "<h1> My name is : $name</h1>";
 echo "<h1> My age is : $age</h1>";
+
 ?>
+<a href="https://php-online-gaurav.herokuapp.com/index.php" class="btn btn-danger btn-lg " tabindex="-1" role="button" >Gaurav's Webpage</a>
 <?php
 include 'includes/footer.php'
 ?>
