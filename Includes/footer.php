@@ -2,6 +2,8 @@
 echo '<br>';
 ?>
 <a href="index.php" class="btn btn-primary btn-lg " tabindex="-1" role="button" >Go back to the home page</a>
+<a href="index.php" class="btn btn-dark btn-lg " tabindex="-1" role="button" >Go back to the home page</a>
+<a href="index.php" class="btn btn-success btn-lg " tabindex="-1" role="button" >Go back to the home page</a>
 <?php
 echo '<br>';
 echo 'Thank You || Hriday Chhaochharia';
