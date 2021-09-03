@@ -1,6 +1,6 @@
 <?php
 $title= 'Arrays in PHP';
-include 'includes/header.php'
+include 'Includes/header.php'
 ?>
 <?php
     echo '<h1>'.$title.'</h1>';
@@ -17,5 +17,5 @@ include 'includes/header.php'
     }
     ?>
 <?php
-include 'includes/footer.php'
+include 'Includes/footer.php'
 ?>

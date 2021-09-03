@@ -1,6 +1,6 @@
 <?php
 $title= 'String Manipulation Functions';
-include 'includes/header.php'
+include 'Includes/header.php'
 ?>
 <h1><?php echo $title ?></h1>
 <?php
@@ -67,5 +67,5 @@ include 'includes/header.php'
 
     ?>
 <?php
-include 'includes/footer.php'
+include 'Includes/footer.php'
 ?>

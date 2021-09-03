@@ -1,6 +1,6 @@
 <?php
 $title= 'Date and Time Manipulation Functions';
-include 'includes/header.php'
+include 'Includes/header.php'
 ?>
 <h1><?php echo $title ?></h1>
 <?php 
@@ -18,5 +18,5 @@ include 'includes/header.php'
     echo "The time is ". date('h:i:sa'). "<br>";
     ?>
 <?php
-include 'includes/footer.php'
+include 'Includes/footer.php'
 ?>

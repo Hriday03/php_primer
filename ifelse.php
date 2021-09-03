@@ -1,6 +1,6 @@
 <?php
 $title= 'If-Else';
-include 'includes/header.php'
+include 'Includes/header.php'
 ?>
 <h1><?php echo $title ?>
 <?php 
@@ -20,5 +20,5 @@ include 'includes/header.php'
 
     ?>
 <?php
-include 'includes/footer.php'
+include 'Includes/footer.php'
 ?>

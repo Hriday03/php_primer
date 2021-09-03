@@ -1,6 +1,6 @@
 <?php
 $title= 'While and Do-While Loops';
-include 'includes/header.php'
+include 'Includes/header.php'
 ?>
 <h1><?php echo $title ?></h1>
 <?php
@@ -13,5 +13,5 @@ while($grade <=10){
 ?>
 
 <?php
-include 'includes/footer.php'
+include 'Includes/footer.php'
 ?>
