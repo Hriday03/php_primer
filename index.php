@@ -1,6 +1,6 @@
 <?php
 $title= 'Index';
-include '/includes/header.php'
+include 'header.php'
 ?>
 <?php 
     //Printing to HTML using echo
@@ -20,5 +20,5 @@ echo "<h1> My age is : $age</h1>";
 ?>
 <a href="https://php-online-gaurav.herokuapp.com/index.php" class="btn btn-danger btn-lg " tabindex="-1" role="button" >Gaurav's Webpage</a>
 <?php
-include '/includes/footer.php'
+include 'footer.php'
 ?>
